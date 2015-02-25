@@ -1,0 +1,2 @@
+require 'ProjectNameGenerator'
+require 'faker'
