@@ -3,7 +3,7 @@
 require 'ProjectNameGenerator'
 
 def main
-  ProjectNameGenerator::Crap.new.get_project_name.to_s
+  puts ProjectNameGenerator::Crap.new.get_project_name.to_s
 end
 
 main
