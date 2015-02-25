@@ -22,6 +22,8 @@ Or install it yourself as:
 
 ProjectNameGenerator
 
+and get some output like: intelligent-zoolab
+
 ## Contributing
 
 1. Fork it ( https://github.com/whatisinternet/ProjectNameGenerator/fork )
