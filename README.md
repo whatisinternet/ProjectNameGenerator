@@ -1,6 +1,6 @@
 # ProjectNameGenerator
 
-TODO: Write a gem description
+It generates a project name via the Faker gem.
 
 ## Installation
 
@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ProjectNameGenerator
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ProjectNameGenerator/fork )
+1. Fork it ( https://github.com/whatisinternet/ProjectNameGenerator/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
