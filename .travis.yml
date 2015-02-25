@@ -1,0 +1,13 @@
+nguage: ruby
+cache: bundler
+rvm:
+  - 2.2.0
+  - 2.1.5
+script: bundle exec rspec
+deploy:
+  provider: rubygems
+  api_key:
+    secure: SS4qIzUG/sm3DaheunoIB2DhRiYeHo4R6MInffSAKzJz6yathdub10PQdKLfFQYGwQ/iejlUsNBoq4GW799i+ESsDSG6WQrPs243RSFH58uPbz4CWGj6+60ChPVdA83b2yCY0TyS/G/UZVyk+RbIH+1ihBPJYzaGjc5XJGFP+pc=
+  gem: ProjectNameGenerator
+   on:
+     repo: whatisinternet/ProjectNameGenerator
