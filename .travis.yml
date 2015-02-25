@@ -1,13 +1,13 @@
 nguage: ruby
 cache: bundler
 rvm:
-  - 2.2.0
-  - 2.1.5
+- 2.2.0
+- 2.1.5
 script: bundle exec rspec
 deploy:
   provider: rubygems
   api_key:
-    secure: SS4qIzUG/sm3DaheunoIB2DhRiYeHo4R6MInffSAKzJz6yathdub10PQdKLfFQYGwQ/iejlUsNBoq4GW799i+ESsDSG6WQrPs243RSFH58uPbz4CWGj6+60ChPVdA83b2yCY0TyS/G/UZVyk+RbIH+1ihBPJYzaGjc5XJGFP+pc=
+    secure: f2kt3jZltvvSH+cYZ89vyT0dd4TtYeV5UtJJJ2tRD0wahIGXc2myT2s8Y8quZmAVBmojeJDugg2TObF8AdKrK0vf8I20p56lFgQ0GYEqXfiR6fDd7Hyf3uM3aRpcvm3fP/n4eRhGQ9xfMPdpRt22Np56sIhWrtuI3UVGRVadH3c=
   gem: ProjectNameGenerator
-   on:
-     repo: whatisinternet/ProjectNameGenerator
+  on:
+    repo: whatisinternet/ProjectNameGenerator
