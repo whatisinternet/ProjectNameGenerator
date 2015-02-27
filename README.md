@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/ProjectNameGenerator.svg)](http://badge.fury.io/rb/ProjectNameGenerator) [![Build Status](https://travis-ci.org/whatisinternet/ProjectNameGenerator.svg?branch=master)](https://travis-ci.org/whatisinternet/ProjectNameGenerator) [![Code Climate](https://codeclimate.com/github/whatisinternet/ProjectNameGenerator/badges/gpa.svg)](https://codeclimate.com/github/whatisinternet/ProjectNameGenerator) [![Test Coverage](https://codeclimate.com/github/whatisinternet/ProjectNameGenerator/badges/coverage.svg)](https://codeclimate.com/github/whatisinternet/ProjectNameGenerator)
 # ProjectNameGenerator
 
 It generates a project name via the Faker gem.
